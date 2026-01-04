@@ -11,5 +11,7 @@ public class Main {
         System.out.println("Hello bangle");
         System.out.println("Hello Maha");
         System.out.println("Hello Elephant");
+        System.out.println("Hello Elephant");
+        System.out.println("Hello Elephant");
         }
     }
