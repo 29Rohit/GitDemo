@@ -8,5 +8,8 @@ public class Main {
         System.out.println("Hello India");
         System.out.println("Hello Heroics");
         System.out.println("Hello Hero");
+        System.out.println("Hello bangle");
+        System.out.println("Hello Maha");
+        System.out.println("Hello Elephant");
         }
     }
