@@ -13,5 +13,7 @@ public class Main {
         System.out.println("Hello Elephant");
         System.out.println("Hello Elephant");
         System.out.println("Hello Elephant");
+        System.out.println("Hello Lion");
+        System.out.println("Hello Lion");
         }
     }
